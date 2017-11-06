@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <!-- code based on the base project on the bootstrap intro page. I'm pretty sure that's allowed? -->
-        <title>Hello, world!</title>
+        <title>Bootstrap Challenge</title>
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
