@@ -15,7 +15,7 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     </head>
     <body>
-        <div class="jumbotron">
+        <div class="jumbotron text-center">
             <div class="col-xs-12 col-sm-6 col-md-8">
                 suh
             </div>
@@ -45,6 +45,13 @@
                         </ul>
                     </div>
                 </nav>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card w-100 mb-3">
+                <div>
+
+                </div>
             </div>
         </div>
     </body>
