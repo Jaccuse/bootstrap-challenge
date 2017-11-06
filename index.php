@@ -41,11 +41,19 @@
                 </nav>
             </div>
         </div>
-        <div class="jumbotron text-center">
-            <div class="col-xs-12 col-sm-6 col-md-8">
-                suh
+        <section class="py-5 bg-dark">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="jumbotron text-center">
+                            <div>
+                                suh
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
+        </section>
         <section class="py-6">
             <div class="container">
                 <div class="row">
