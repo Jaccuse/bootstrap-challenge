@@ -105,5 +105,22 @@
                 </div>
             </div>
         </section>
+        <section class="py-6">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-5 d-md-flex">
+                        <div class="card w-100 mb-3">
+                            <div class="card-body">
+                                <h3>blah blah text</h3>
+                                <ul>
+                                    <li>lorem ipsum yeeeah.</li>
+                                    <li>OwO</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </body>
 </html>
